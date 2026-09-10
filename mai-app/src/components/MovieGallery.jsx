@@ -36,7 +36,6 @@ function MovieGallery() {
       )}
       </div>
 
-
       <h2 className="mt-4 text-2xl font-bold text-slate-800">
         {movie.title} <span className="text-slate-400">({movie.year})</span>
       </h2>
